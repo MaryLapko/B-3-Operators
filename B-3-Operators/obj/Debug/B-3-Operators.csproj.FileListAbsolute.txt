@@ -1,0 +1,14 @@
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.csprojAssemblyReference.cache
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.csproj.CoreCompileInputs.cache
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\bin\Debug\B-3-Operators.exe.config
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\bin\Debug\B-3-Operators.exe
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\bin\Debug\B-3-Operators.pdb
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.exe
+D:\Dropbox\HrueSpace\IT Academy\C#\Code\B-3-Operators\BL-3-Start\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.pdb
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\obj\Debug\B-3-Operators.pdb
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\bin\Debug\B-3-Operators.exe.config
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\bin\Debug\B-3-Operators.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-masterNew\03-12-2018-master\B-3-Operators\B-3-Operators\bin\Debug\B-3-Operators.pdb
